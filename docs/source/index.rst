@@ -10,10 +10,19 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Contents:
 --------
 
 .. toctree::
 
-   usage
-   api
+   Slicktum?
+   Algoritma
+   Instalasi
+   Cara Penggunaan
+   Membuat sebuah project
+   Menjalankan "Normal Run"
+   Menjalankan "Forecast Run"
+   Visualisasi
+   Gaya Pembangkit
+   Coastline data
+   
