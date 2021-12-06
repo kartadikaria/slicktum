@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Slicktum documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Slicktum** A hydrodynamics-independent oil spill that is developed for flexible point and/or area type of source(s), either continue and/or discontinue discharge(s), with capabilities of boom scenario(s) and additional polygon (structure, island, or jetty) and necessary to be forced by near real-time ocean and wind-meteorology datasets.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
